@@ -108,9 +108,7 @@ def main():
                         magazaIslem = input("\nYapmak istediginiz islemi seciniz\n"
                                       "1) Calisan Ekle\n"
                                       "2) Satis Yap\n"
-                                      "3) Calisanin Satislarini Goruntule\n"
-                                      "4) Toplam Satisi Goruntule\n"
-                                      "5) Menuye Don Yap\n"
+                                     
                                       "0) Programi Sonlandir\n")
 
                         if magazaIslem == '1':
